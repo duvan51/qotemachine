@@ -1,0 +1,24 @@
+.tarjet{
+    height:90%;
+    border-radius:13px;
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+}
+
+
+.tarjet > footer{
+    width:100%;
+    display:flex;
+    justify-content:flex-end;
+    
+}
+.tarjet > footer > button{
+    width:30px;
+    height:30px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    border-radius:10px;
+    cursor :pointer;
+
+}
