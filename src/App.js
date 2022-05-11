@@ -1,6 +1,6 @@
 import './App.css';
 import Quotes from './dataInfo/quotes.json'
-import {useEffect, useState} from 'react'
+import {useState} from 'react'
 import QotexBox from './components/QotexBox';
 
 
